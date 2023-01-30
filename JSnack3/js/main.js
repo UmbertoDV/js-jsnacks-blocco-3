@@ -8,5 +8,6 @@ while (arrayGenerati < numeroDiArray) {
 		array.push(randomNumber);
 	}
 	arrayGenerati++;
+	console.log(array);
+	array = [];
 }
-console.log(array);
